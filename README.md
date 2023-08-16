@@ -1,2 +1,3 @@
 # Bike-Sharing-Assignment
-![istockphoto](https://github.com/pragya2611/Bike-Sharing-Assignment/assets/20012925/7c4b9c28-7b88-4078-8761-073bc71061e7)
+![istockphoto-618973378-612x612](https://github.com/pragya2611/Bike-Sharing-Assignment/assets/20012925/52aa463e-3034-4fed-92d0-2e2caf4cb531)
+
